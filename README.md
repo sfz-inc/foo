@@ -1,0 +1,2 @@
+# foo
+my new project
